@@ -13,12 +13,16 @@
 
 ## Unit Tests
 
-### Added or altered tests (if applicable)
-
-<!-- Screenshots of output for modified unit tests -->
+**screenshots of output for modified unit tests.**
 
 ### Coverage report screenshot
 
+**screenshot of final output for total unit tests. (ex x of y covered)**
+
 ## Security Tests
 
-<!-- screenshots of security test output -->
+**screenshots of security test output.**
+
+## Examples
+
+**screenshot or screen-record any changes to the UI or demo of major functional changes.**
