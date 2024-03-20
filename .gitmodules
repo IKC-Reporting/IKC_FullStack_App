@@ -1,0 +1,3 @@
+[submodule "IKC_Docs"]
+	path = IKC_Docs
+	url = https://github.com/IKC-Reporting/IKC_Docs.git
